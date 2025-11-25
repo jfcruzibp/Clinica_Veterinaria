@@ -18,7 +18,7 @@
 - pr_mascota(pk_mascota,nombre,especie,raza,fecha_nacimiento)
 - pr_propietario(pk_propietario,nombre,apellido,cedula,fk_mascota)
 - pr_veterinario(pk_veterinario,cedula,nombre       )
-- pr_citas
+- pr_citas(pk_cita,fecha,hora,motivo,diagnostico,re)
 - pr_vacunas
 - trs_vacunacion
 
